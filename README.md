@@ -1,3 +1,3 @@
 EviJarb is project that simplify visualisation of algorithm
 
-[Project Wiki](github.com/EviJabr/EviJabr/wiki)
+[Project Wiki](https://github.com/EviJabr/EviJabr/wiki)
