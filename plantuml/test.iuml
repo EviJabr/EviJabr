@@ -1,0 +1,10 @@
+@startuml
+actor Some_client
+node app_2
+node car_3
+node tshirt_2
+
+car_3 -> app_2
+app_2 -> Some_client
+Some_client -> tshirt_2
+@enduml
